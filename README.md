@@ -13,15 +13,16 @@ Before getting started, make sure you have the following installed on your machi
 npm install
 ```
 
-- vite
+## After installation of dependencies
+
+Open the directory of selected project in terminal and run:
+
 ```bash
 # To install vite
 npm install vite
 ```
 
-## After installating dependencies
-
-Open the react project in terminal and run:
+To start the application:
 
 ```bash
 # To start the react-app
